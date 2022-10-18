@@ -1,0 +1,26 @@
+{
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "starred:star-current-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "8"
+    }
+  ],
+  "workspace:copy-path": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

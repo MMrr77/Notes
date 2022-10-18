@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "b507efe4daee15ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "431a8303c2288c16",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f3c3ed64e3e1257",
+    "type": "split",
+    "children": [
+      {
+        "id": "77e9063579376ea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5793aecb91f7292d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3a061d2a0141b23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7a208a1f42b58d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 176.5
+  },
+  "right": {
+    "id": "6f751ccbb2a50527",
+    "type": "split",
+    "children": [
+      {
+        "id": "37adeafbfcb5c4ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be994b3b3e0381c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09af3263ddb06882",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60fc149ca4f1ebc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8467b1876fac7d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f7c3f26e314b3c0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5,
+    "collapsed": true
+  },
+  "active": "5793aecb91f7292d",
+  "lastOpenFiles": [
+    "2022-09-19.md",
+    "1-LectureNotes/2022-09-19 Green Neoliberalism, Class and Urban Sustainability.md",
+    "1-LiteratureNotes/Exploring the Potential for Just Urban Transformations in Light of Eco-Modernist Imaginaries of Sustainability.md",
+    "1-LectureNotes/2022-09-26 Conflict among feminists and feminisms.md",
+    "词库.md",
+    "0-QuickNotes/2022-10-17.md",
+    "1-LectureNotes/2022-09-19 Approaching Urbanisation from Its Constitutive Outsides.md",
+    "1-LectureNotes/2022-09-15 Analytical Perspective.md",
+    "2022-10-18.md",
+    "2022-10-17.md"
+  ]
+}

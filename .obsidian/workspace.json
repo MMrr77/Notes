@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "b507efe4daee15ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ea2dec250ffa5c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26391df18857099b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10-19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f3c3ed64e3e1257",
+    "type": "split",
+    "children": [
+      {
+        "id": "77e9063579376ea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5793aecb91f7292d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3a061d2a0141b23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7a208a1f42b58d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "6f751ccbb2a50527",
+    "type": "split",
+    "children": [
+      {
+        "id": "37adeafbfcb5c4ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be994b3b3e0381c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-10-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09af3263ddb06882",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-10-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8467b1876fac7d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-10-19.md"
+              }
+            }
+          },
+          {
+            "id": "60fc149ca4f1ebc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f94653b82b0a137b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "e8467b1876fac7d5",
+  "lastOpenFiles": [
+    "1-LiteratureNotes/Arboleda_2016_Spaces of Extraction, Metropolitan Explosions.md",
+    "1-LiteratureNotes/Embodied urban political ecology- five propositions.md",
+    "1-ReadingNotes/城市发展史/CH4-古代城市的本质.md",
+    "article.md",
+    "1-LiteratureNotes/The possibility of care-full cities.md",
+    "1-LiteratureNotes/Spatial myopia- sustainability, urban politics and Malmö city.md",
+    "1-LiteratureNotes/Extended urbanization, “disjunct fragments” and global suburbanisms.md",
+    "1-LiteratureNotes/Provincializing Urban Political Ecology- Towards a Situated UPE Through African Urbanism- Provincialising Urban Political Ecology.md",
+    "1-LiteratureNotes/Urban Political Ecology. Theoretical concepts, challenges, and suggested future directions.md",
+    "1-LectureNotes/2022-09-15 Analytical Perspective.md"
+  ]
+}

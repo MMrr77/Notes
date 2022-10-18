@@ -1,0 +1,10 @@
+{
+  "enabledCssSnippets": [
+    "styles"
+  ],
+  "baseFontSize": 16,
+  "cssTheme": "Things",
+  "translucency": false,
+  "theme": "moonstone",
+  "accentColor": ""
+}
