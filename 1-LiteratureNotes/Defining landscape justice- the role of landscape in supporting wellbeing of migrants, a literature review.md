@@ -1,16 +1,19 @@
-#### # Defining landscape justice: the role of landscape in supporting wellbeing of migrants, a literature review  #论文
+#### # Defining landscape justice: the role of landscape in supporting wellbeing of migrants, a literature review  #DocType/论文
+
 ***
 #### Metadata
-- Author:: * Authors: [[Shelley Egoz]], [[Alessia De Nardi]]
+- Author:: [[Shelley Egoz]], [[Alessia De Nardi]]
 - 作者机构:: 
-- Keywords:: - Journal:: * Publication Title: [Landscape Research](landscape-research)
-- Date:: * Date: [12/2017](12/2017)
-- 状态:: #待读 
+- Keywords:: [[Migration]], [[place attachment]], [[wellbeing]], [[landscape justice]], [[refugees]]
+- Journal:: [Landscape Research](landscape-research.md)
+- Date:: [12/2017](12/2017)
+- 状态:: #状态/待读 
 - 对象:: 
 - 方法:: 
+- Tags:: #Topic/LandscapeJustice #DocType/Review 
 - 分类:: 
 - 内容:: 
-- * PDF Attachments
+- PDF Attachments
 	- [Egoz_De Nardi_2017_Defining landscape justice.pdf](zotero://open-pdf/library/items/MTY9EUBZ)
 
 #### ## Abstract

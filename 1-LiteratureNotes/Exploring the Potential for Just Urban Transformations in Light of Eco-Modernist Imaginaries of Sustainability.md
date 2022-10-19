@@ -3,7 +3,9 @@
 #### Metadata
 - Author:: * Authors: [[Pernilla Hagbert]], [[Josefin Wangel]], [[Loove Broms]]
 - 作者机构:: 
-- Keywords:: - Journal:: * Publication Title: [Urban Planning](urban-planning)
+- Keywords:: 
+- Journal:: 
+- Publication Title: [Urban Planning](urban-planning)
 - Date:: * Date: [2020-11-12](2020-11-12)
 - 状态:: #状态/待读 
 - 对象:: 

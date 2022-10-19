@@ -66,11 +66,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 226.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f751ccbb2a50527",
@@ -139,26 +141,27 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "5b79a8cd9b9e871b",
   "lastOpenFiles": [
-    "1-LiteratureNotes/Provincializing Urban Political Ecology- Towards a Situated UPE Through African Urbanism- Provincialising Urban Political Ecology.md",
-    "1-LiteratureNotes/The possibility of care-full cities.md",
-    "1-LiteratureNotes/Urban Political Ecology. Theoretical concepts, challenges, and suggested future directions.md",
+    "2-期刊库/landscape-research.md",
+    "1-LiteratureNotes/Defining landscape justice- the role of landscape in supporting wellbeing of migrants, a literature review.md",
     "1-LiteratureNotes/Embodied urban political ecology- five propositions.md",
     "1-LiteratureNotes/Exploring the Potential for Just Urban Transformations in Light of Eco-Modernist Imaginaries of Sustainability.md",
-    "1-LiteratureNotes/Extended urbanization, “disjunct fragments” and global suburbanisms.md",
-    "1-LiteratureNotes/Spaces of Extraction, Metropolitan Explosions.md",
-    "2022-10-19.md",
-    "1-ReadingNotes/城市发展史/CH4-古代城市的本质.md",
-    "article.md"
+    "2-关键词库/landscape justice.md",
+    "2-关键词库/refugees.md",
+    "2-关键词库/wellbeing.md",
+    "2-关键词库/place attachment.md",
+    "2-关键词库/Migration.md",
+    "2-作者库/Alessia De Nardi.md"
   ]
 }
