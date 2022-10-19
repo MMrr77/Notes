@@ -1,4 +1,3 @@
-#### # Spaces of Extraction, Metropolitan Explosions: Planetary Urbanization and the Commodity Boom in Latin America: SPACES OF EXTRACTION, METROPOLITAN EXPLOSIONS
 
 ## Metadata
 

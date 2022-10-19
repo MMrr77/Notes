@@ -1,2 +1,2 @@
-Article: [[Arboleda_2016_Spaces of Extraction, Metropolitan Explosions]]
+Article: [[Spaces of Extraction, Metropolitan Explosions]]
 

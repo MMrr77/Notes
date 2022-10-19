@@ -4,7 +4,7 @@ Date:: Sep.12th
 Lecturer:: [[Henrik Ernstson]]
 Topic:: Urban Political Ecology
 Mandatory literature::
-[[Arboleda_2016_Spaces of Extraction, Metropolitan Explosions]]
+[[Spaces of Extraction, Metropolitan Explosions]]
 [[Urban Political Ecology. Theoretical concepts, challenges, and suggested future directions]]
 
 **Core idea: The urbanization of the nature is the transition of the nature.
@@ -54,7 +54,7 @@ Society and nature  < -- > Purification and Hybridization
 
 
 ## Extended urbanization & Planetary urbanization
-[[Arboleda_2016_Spaces of Extraction, Metropolitan Explosions]]
+[[Spaces of Extraction, Metropolitan Explosions]]
 
 pipes in the city for water infrastructure
 Dams for protection from water or generate e-power
