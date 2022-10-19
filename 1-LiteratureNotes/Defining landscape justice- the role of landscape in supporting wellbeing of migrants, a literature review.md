@@ -21,7 +21,15 @@
 Landscape Justice, we argue, is one of the preconditions for social sustainability underlined by an ethos of equality. While there are several social groups who experience discrimination, in this paper we focus on landscape and migration in the context of Europe’s gravest refugee crisis since the Second World War. Refugees, and migrants in general, are one of the most vulnerable groups of people in society. In most Western countries they face economic hardship and difficult living conditions and frequently have to face a social climate of prejudices and hostility. Such adversities, affected by spatial conditions and access to spatial resources, as well as affecting potential positive associations with landscape, are at the core of landscape justice. Building on the premise that landscape is the essential infrastructure for wellbeing and that research on landscape justice is instrumental to achieving the goals of the European Landscape Convention, this article offers a review of existing literature on landscape and migration. The goal is to identify new potential research directions and strategies that would contribute to landscape justice and wellbeing.
 
 ***
-
+#### 结构
+	* 1. Intro
+	* 2. Landscape and migration
+		* 2.1 Landscape as common ground
+		* 2.2 The everyday landscape and creating meaningful places
+			* 2.2.1 Community gardening
+			* 2.2.2 Identity and belonging
+		* 2.3 Resettlement in the landscape
+	* 3. Discussion and conclusion
 #### 理论
 * 
 #### 内容
