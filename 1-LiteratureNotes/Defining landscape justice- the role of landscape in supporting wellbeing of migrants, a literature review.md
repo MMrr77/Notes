@@ -31,18 +31,16 @@ Landscape Justice, we argue, is one of the preconditions for social sustainabili
 		* 2.3 Resettlement in the landscape
 	* 3. Discussion and conclusion
 
-#### 理论
-* 
-#### 内容
-* 
-#### 方法
-* 
-#### 结论
-* 
-#### 亮点
-* 
-#### 灵感
-* 
+#### 2.1 landscape as common ground 
+*景观作为共同点*
+> where landscape is addressed as a public and shared setting that supports processes of inclusion or connotes exclusion of migrants and minority ethnic groups.
+> 
+#### 2.2 The everyday landscape and creating meaningful places
+##### 2.2.1 Community gardening
+##### 2.2.2 Identity and belonging
+
+#### 2.3 Resettlement in the landscape
+
 
 ***
 #### Zotero links
