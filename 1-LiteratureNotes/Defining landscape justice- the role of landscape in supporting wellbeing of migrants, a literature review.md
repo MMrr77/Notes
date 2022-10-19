@@ -42,6 +42,11 @@ Landscape Justice, we argue, is one of the preconditions for social sustainabili
 
 
 #### 2.2 The everyday landscape and creating meaningful places
+values of the European Landscape Convention’s definition of Landscape as ‘an area as perceived by people’ (CoE, 2000)
+The relationships with places: <u>how migrants build new territorial ties; how they maintain bonds with their country of origin; which factors mostly contribute to such processes, and to the psychological and emotional wellbeing and equilibrium sought-after in the progression towards a re-rooting in place.</u>
+
+
+
 ##### 2.2.1 Community gardening
 ##### 2.2.2 Identity and belonging
 
