@@ -30,6 +30,7 @@ Landscape Justice, we argue, is one of the preconditions for social sustainabili
 			* 2.2.2 Identity and belonging
 		* 2.3 Resettlement in the landscape
 	* 3. Discussion and conclusion
+
 #### 理论
 * 
 #### 内容
