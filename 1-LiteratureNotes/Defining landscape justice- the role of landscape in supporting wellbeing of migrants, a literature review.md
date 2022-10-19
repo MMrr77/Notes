@@ -16,7 +16,7 @@
 - PDF Attachments
 	- [Egoz_De Nardi_2017_Defining landscape justice.pdf](zotero://open-pdf/library/items/MTY9EUBZ)
 
-#### ## Abstract
+#### Abstract
 
 Landscape Justice, we argue, is one of the preconditions for social sustainability underlined by an ethos of equality. While there are several social groups who experience discrimination, in this paper we focus on landscape and migration in the context of Europe’s gravest refugee crisis since the Second World War. Refugees, and migrants in general, are one of the most vulnerable groups of people in society. In most Western countries they face economic hardship and difficult living conditions and frequently have to face a social climate of prejudices and hostility. Such adversities, affected by spatial conditions and access to spatial resources, as well as affecting potential positive associations with landscape, are at the core of landscape justice. Building on the premise that landscape is the essential infrastructure for wellbeing and that research on landscape justice is instrumental to achieving the goals of the European Landscape Convention, this article offers a review of existing literature on landscape and migration. The goal is to identify new potential research directions and strategies that would contribute to landscape justice and wellbeing.
 
@@ -34,7 +34,13 @@ Landscape Justice, we argue, is one of the preconditions for social sustainabili
 #### 2.1 landscape as common ground 
 *景观作为共同点*
 > where landscape is addressed as a public and shared setting that supports processes of inclusion or connotes exclusion of migrants and minority ethnic groups.
-> 
+
+> * Byrne and Wolch (Byrne, J., Wolch, J., & Zhang, J. (2009). Planning for environmental justice in an urban national park. Journal of Environmental Planning and Management, 52, 365–392.)
+>  four interconnected explanations for the ethno-racially(种族) differentiated park use：<u>(1) marginality; (2) race/ ethnicity; (3) assimilation and acculturation; and (4) discrimination’</u>
+> social-economic barriers 
+
+
+
 #### 2.2 The everyday landscape and creating meaningful places
 ##### 2.2.1 Community gardening
 ##### 2.2.2 Identity and belonging
