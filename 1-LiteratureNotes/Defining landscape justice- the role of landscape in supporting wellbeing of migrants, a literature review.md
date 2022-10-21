@@ -49,6 +49,7 @@ The relationships with places: <u>how migrants build new territorial ties; how t
 
 ##### 2.2.1 Community gardening
 ##### 2.2.2 Identity and belonging
+> In this variegated framework, landscape often appears as a powerful trigger of emotions and memories.
 
 #### 2.3 Resettlement in the landscape
 
