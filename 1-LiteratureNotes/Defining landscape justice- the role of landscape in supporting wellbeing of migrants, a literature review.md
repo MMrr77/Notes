@@ -52,8 +52,11 @@ The relationships with places: <u>how migrants build new territorial ties; how t
 > In this variegated framework, landscape often appears as a powerful trigger of emotions and memories.
 
 #### 2.3 Resettlement in the landscape
+therapeutic potential of landscape
+the health effect of specific types of places, e.g. green spaces (Hordyk et al., 2015), leisure spaces in general such as parks, but also sport facilities and shopping centres (Hasmi, Gross, & Scott-Young, 2014), and places of worship (Agyekum & Newbold, 2016)
 
-
+#### 3. Discussion and conclusion
+Main actor: marginalised groups(one of them are migrants)
 ***
 #### Zotero links
 * DOI: [10.1080/01426397.2017.1363880](https://doi.org/10.1080/01426397.2017.1363880)
