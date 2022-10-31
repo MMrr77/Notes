@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "863680d912e1c768",
+        "id": "e38ad781f79be73a",
         "type": "tabs",
         "children": [
           {
-            "id": "5b79a8cd9b9e871b",
+            "id": "59a02310b97a4d4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-LiteratureNotes/Defining landscape justice- the role of landscape in supporting wellbeing of migrants, a literature review.md",
+                "file": "2022-10-31 Approaches to futures studies – backcasting with examples.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-LiteratureNotes/Defining landscape justice- the role of landscape in supporting wellbeing of migrants, a literature review.md",
+                "file": "2022-10-31 Approaches to futures studies – backcasting with examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-LiteratureNotes/Defining landscape justice- the role of landscape in supporting wellbeing of migrants, a literature review.md",
+                "file": "2022-10-31 Approaches to futures studies – backcasting with examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-LiteratureNotes/Defining landscape justice- the role of landscape in supporting wellbeing of migrants, a literature review.md"
+                "file": "2022-10-31 Approaches to futures studies – backcasting with examples.md"
               }
             }
           },
@@ -151,10 +150,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5b79a8cd9b9e871b",
+  "active": "59a02310b97a4d4f",
   "lastOpenFiles": [
-    "2-期刊库/landscape-research.md",
     "1-LiteratureNotes/Defining landscape justice- the role of landscape in supporting wellbeing of migrants, a literature review.md",
+    "2-期刊库/landscape-research.md",
     "1-LiteratureNotes/Embodied urban political ecology- five propositions.md",
     "1-LiteratureNotes/Exploring the Potential for Just Urban Transformations in Light of Eco-Modernist Imaginaries of Sustainability.md",
     "2-关键词库/landscape justice.md",
