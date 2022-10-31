@@ -38,11 +38,11 @@ On which assumptions does her forecast rest?
 - participatory 
 - > focus on the backcast of different 
 
-
-
-
-
-
+#### Questions by future studies
+- is it realistic to lead a sustainable life
+	- is this sustainable , will it be acceptable
+	- should planning be based on forecast
+	- 
 
 
 
