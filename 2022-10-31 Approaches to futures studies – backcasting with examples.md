@@ -20,6 +20,9 @@ On which assumptions does her forecast rest?
 	- Assumption 1: the historical data are correct
 	- A2: the data indicate a casual relation between 
 #### Explorative scenarios -- what can happen
+- two scenarios
+	- External
+	- Strategic
 #### Normative Scenarios -- how can a certain target be reached?
 *can be very different with the predictive scenarios*
 
