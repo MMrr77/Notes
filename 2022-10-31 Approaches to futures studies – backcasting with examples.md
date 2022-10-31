@@ -7,6 +7,7 @@
 		- 选项a 和b ，未来的时间节点，发生之后的两条线
 	- forecast scenarios
 		- 一个阈值
+	- ![[Pasted image 20221031135359.png]]\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 Transport - communication-correlation
 	transporth是一个人的行程公里数
