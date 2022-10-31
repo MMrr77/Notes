@@ -19,10 +19,19 @@ Transport - communication-correlation
 On which assumptions does her forecast rest?
 	- Assumption 1: the historical data are correct
 	- A2: the data indicate a casual relation between 
+
 #### Explorative scenarios -- what can happen
 - two scenarios
-	- External
-	- Strategic
+	- External 四个维度的，在四个象限
+	- Strategic， 一个表哥，比如纵向表头的四个index，横向是四个external的因素，结果展现在表中
+	-  *span the credible range of uncertainty*
+- 
 #### Normative Scenarios -- how can a certain target be reached?
 *can be very different with the predictive scenarios*
+- two strategies
+	- Preserving 
+		- > in everyday planning and urban planning
+	- transforming
 
+- backcasting
+	- 1.definition of 
