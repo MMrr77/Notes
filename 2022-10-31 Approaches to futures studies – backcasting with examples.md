@@ -15,7 +15,11 @@ Transport - communication-correlation
 	处理数据的时候，指数变化的数据，取对数
 
 两个变量之间的关系，有时需要考虑到其他变量的影响
+
+On which assumptions does her forecast rest?
+	- Assumption 1: the historical data are correct
+	- A2: the data indicate a casual relation between 
 #### Explorative scenarios -- what can happen
 #### Normative Scenarios -- how can a certain target be reached?
-can be very different with the predictive scenarios
+*can be very different with the predictive scenarios*
 
