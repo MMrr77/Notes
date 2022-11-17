@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e38ad781f79be73a",
+        "id": "1513c994a4497de8",
         "type": "tabs",
         "children": [
           {
-            "id": "59a02310b97a4d4f",
+            "id": "b90c417a134bb56f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10-31 Approaches to futures studies – backcasting with examples.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "6f751ccbb2a50527",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-31 Approaches to futures studies – backcasting with examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-31 Approaches to futures studies – backcasting with examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-10-31 Approaches to futures studies – backcasting with examples.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,8 +140,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "59a02310b97a4d4f",
+  "active": "5793aecb91f7292d",
   "lastOpenFiles": [
+    "未命名.md",
+    "2022-10-31 Approaches to futures studies – backcasting with examples.md",
     "1-LiteratureNotes/Defining landscape justice- the role of landscape in supporting wellbeing of migrants, a literature review.md",
     "2-期刊库/landscape-research.md",
     "1-LiteratureNotes/Embodied urban political ecology- five propositions.md",
@@ -159,8 +151,6 @@
     "2-关键词库/landscape justice.md",
     "2-关键词库/refugees.md",
     "2-关键词库/wellbeing.md",
-    "2-关键词库/place attachment.md",
-    "2-关键词库/Migration.md",
-    "2-作者库/Alessia De Nardi.md"
+    "2-关键词库/place attachment.md"
   ]
 }
